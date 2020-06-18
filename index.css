@@ -1,0 +1,13 @@
+body {background-image: url(mora.jpg);
+            background-size: cover;
+            background-attachment: fixed}
+
+
+a.blue-btn:hover{
+                background-color:deeppink;
+                color:white;
+                transition: 0.9s;}
+a.blue-btn{text-decoration: none;
+font-family: sans-serif;
+font-size: 40px;
+color: deeppink}
